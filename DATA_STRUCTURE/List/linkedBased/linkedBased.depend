@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1602747297 source:d:\programing\projects\c\data_structure\list\linkedbased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linb.h"
+
+1602735230 d:\programing\projects\c\data_structure\list\linkedbased\linb.h
+
+1602746936 source:d:\programing\projects\c\data_structure\list\linkedbased\linked_based.c
+	<stdlib.h>
+	"linb.h"
+

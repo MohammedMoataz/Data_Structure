@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602709651 source:d:\programing\projects\c\data_structure\queues\arraybased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrb.h"
+
+1602712807 d:\programing\projects\c\data_structure\queues\arraybased\arrb.h
+

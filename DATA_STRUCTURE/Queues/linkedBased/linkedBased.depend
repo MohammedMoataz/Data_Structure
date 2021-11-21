@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602712884 source:d:\programing\projects\c\data_structure\queues\linkedbased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linb.h"
+
+1602716386 d:\programing\projects\c\data_structure\queues\linkedbased\linb.h
+
